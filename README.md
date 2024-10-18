@@ -1,4 +1,5 @@
 # Loan Approval Prediction
+[https://imbankappdemo2-kdawsvlkpk2thyyopaoqkn.streamlit.app/]
 ##분석 목적
 1. 변수 분석을 통한 대출 승인 여부 예측
 2. ML Score 올리기
