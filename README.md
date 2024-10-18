@@ -1,9 +1,13 @@
 # Loan Approval Prediction
-[https://imbankappdemo2-kdawsvlkpk2thyyopaoqkn.streamlit.app/]
+[https://imbankappdemo2-kdawsvlkpk2thyyopaoqkn.streamlit.app/]  
+
+<br/>
+  
 ##분석 목적
 1. 변수 분석을 통한 대출 승인 여부 예측
 2. ML Score 올리기
 3. Python 활용 능력 쌓기
+<br/>
 
 ## 변수 설명
 ### Basic Variables
