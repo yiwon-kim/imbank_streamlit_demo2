@@ -17,9 +17,9 @@ from scipy import stats
 @st.cache_data
 def load_and_preprocess_data():
     # 데이터 로드 및 전처리
-    train = pd.read_csv('dataset/train.csv')
-    test = pd.read_csv('dataset/test.csv')
-    submission = pd.read_csv('dataset/sample_submission.csv')
+    train = pd.read_csv('data/train.csv')
+    test = pd.read_csv('data/test.csv')
+    submission = pd.read_csv('data/sample_submission.csv')
 
     # 불필요한 열 제거
     train = train.drop(columns=['id'])
